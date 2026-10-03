@@ -22,7 +22,7 @@ When the battery is low the red light will flash on button presses of when water
 | --- | --- |
 | `enclosure/print/` | STLs to print: back, front, light mask, hook |
 | `enclosure/source/` | Matching STEP files, for editing |
-| `hardware/` | KiCad project, plus the JLCPCB gerbers, BOM and placement file. The schematic is [docs/schematic.pdf](docs/schematic.pdf) |
+| `hardware/` | KiCad project, plus the JLCPCB gerbers, BOM and placement file. The schematic is [hardware/schematic.pdf](hardware/schematic.pdf) |
 | `firmware/` | Plant-timer firmware, flash and test tools |
 | `docs/` | Documentation |
 
