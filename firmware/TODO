@@ -1,0 +1,13 @@
+2026/09/05
+software:
+- much lower light beeps - PWM? or just shorter bursts?  (due: 8 ms × 2 / 60 s; no PWM — flash budget)
+- code size - close to flash limit???
+- when waiting, we should really only wake up on button press or when due (to flash the LEDs) - otherwise just sleep
+hw:
+- wioth a ppk2: power pforiling etc
+- actually solder coin cell holder and test then (unplug 3V3 from STLINK)
+revB:
+- fix SOIC connector.....
+- maybe beefier resistors on LEDs and pullups etc
+- expose pad for NRST
+- get rid of jumpers (?)

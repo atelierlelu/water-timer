@@ -1,0 +1,15 @@
+# Firmware build output
+firmware/build/
+
+# KiCad local state and autosave
+*.kicad_prl
+*-backups/
+*.lck
+fp-info-cache
+
+# Python, editor, OS
+__pycache__/
+*.pyc
+*.swp
+*~
+.DS_Store

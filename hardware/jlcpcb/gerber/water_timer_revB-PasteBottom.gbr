@@ -1,0 +1,20 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,10.0.5*%
+%TF.CreationDate,2026-09-13T22:07:19+01:00*%
+%TF.ProjectId,water_timer_revB,77617465-725f-4746-996d-65725f726576,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Paste,Bot*%
+%TF.FilePolarity,Positive*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 10.0.5) date 2026-09-13 22:07:19*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%ADD10C,8.000000*%
+G04 APERTURE END LIST*
+D10*
+%TO.C,P1*%
+X127254000Y-86830000D03*
+%TD*%
+M02*

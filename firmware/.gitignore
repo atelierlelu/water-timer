@@ -1,0 +1,28 @@
+# GCC / make output
+build/
+
+# PPK2 life-cycle captures (raw sample stream is large)
+captures/
+
+# Python bytecode from the bench scripts
+__pycache__/
+*.pyc
+
+# Editor and OS junk
+*.swp
+*~
+.DS_Store
+.vscode/
+.idea/
+
+# IAR / CubeIDE local build trees if regenerated
+EWARM/Debug/
+EWARM/Release/
+EWARM/settings/
+*.o
+*.lst
+*.map
+*.elf
+*.bin
+*.hex
+*.launch
